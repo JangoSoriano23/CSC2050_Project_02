@@ -1,0 +1,6 @@
+i want 3 spaces
+
+
+there were two   tabs
+
+this is 	tabbed
